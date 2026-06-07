@@ -1,0 +1,28 @@
+# Frontend
+octofit-tracker/frontend/node_modules
+octofit-tracker/frontend/dist
+octofit-tracker/frontend/.env.local
+octofit-tracker/frontend/.env.*.local
+
+# Backend
+octofit-tracker/backend/node_modules
+octofit-tracker/backend/dist
+octofit-tracker/backend/.env
+octofit-tracker/backend/.env.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
